@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=cPN3Nh1vaRk
 <b>Plane Generation</b>
 </p>
 
-![Plane Generation](./part1/media/Screenshots/Plane_Generation.png)
+![Level Editor](./part1/media/Screenshots/Plane_Generation.png)
 
 <p align="center">
 <b>Height Map Applied With a Low FOV</b>
